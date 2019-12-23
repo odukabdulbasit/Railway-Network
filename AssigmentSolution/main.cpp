@@ -54,5 +54,7 @@ int main() {
 	cout << endl;
 	railwayNetwork1.crossTrainByStation("train1", "marsesst", 1, true);
 
+	cout << endl;
+
 	return 0;
 }
