@@ -1,0 +1,13 @@
+﻿  Colecao.cpp
+  CrossStation.cpp
+  main.cpp
+  Passage.cpp
+  RN.cpp
+  Station.cpp
+  TData.cpp
+  TDataHora.cpp
+  THora.cpp
+  Train.cpp
+  Generating Code...
+C:\Users\USER\Desktop\RailwayNetwork\RailwayNetwork\AssigmentSolution\RN.cpp(57): warning C4715: 'RN::addPassage': not all control paths return a value
+  AssigmentSolution.vcxproj -> C:\Users\USER\Desktop\RailwayNetwork\RailwayNetwork\Debug\AssigmentSolution.exe
